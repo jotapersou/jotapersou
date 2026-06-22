@@ -32,22 +32,17 @@ UniCesumar
 
 ---
 
-## Projetos
+## Projects
 
 ### Invest Dashboard
 
-Dashboard para acompanhamento e visualização de investimentos desenvolvido utilizando HTML, CSS e JavaScript.
+Dashboard de investimento utilizando HTML, CSS e JavaScript.
 
-Principais características:
+Repository:
+https://github.com/SEUUSUARIO/invest-dashboard
 
-* Interface responsiva
-* Organização de dados financeiros
-* Manipulação de dados com JavaScript
-* Estruturação de componentes utilizando HTML e CSS
-
-Projeto Online:
-
-https://jotapersou.github.io/invest-dashboard/
+Live Demo:
+https://SEUUSUARIO.github.io/invest-dashboard/
 
 
 ## Objetivos Profissionais
