@@ -49,19 +49,6 @@ Projeto Online:
 
 https://jotapersou.github.io/invest-dashboard/
 
----
-
-## Competências
-
-* Resolução de problemas
-* Comunicação interpessoal
-* Trabalho em equipe
-* Organização de processos
-* Aprendizado contínuo
-* Adaptabilidade
-* Pensamento analítico
-
----
 
 ## Objetivos Profissionais
 
@@ -77,7 +64,4 @@ https://jotapersou.github.io/invest-dashboard/
 
 GitHub:
 https://github.com/JotaPersou
-
-LinkedIn:
-https://www.linkedin.com/in/jo%C3%A3o-pedro-rogelin-souza-749355266/
 
