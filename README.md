@@ -18,9 +18,13 @@ Atualmente estudo desenvolvimento web, lógica de programação, versionamento d
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**
-UniCesumar
+UniCesumar (2026 - Atual).
 
 ---
+
+## Objetivo Profissional
+
+Construir uma carreira sólida na área de tecnologia, desenvolvendo soluções que gerem impacto real para pessoas e empresas, com foco em desenvolvimento de software, análise de dados e resolução de problemas.
 
 ## Tecnologias
 
