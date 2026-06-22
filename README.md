@@ -79,5 +79,5 @@ GitHub:
 https://github.com/JotaPersou
 
 LinkedIn:
-(Adicionar futuramente)
+https://www.linkedin.com/in/jo%C3%A3o-pedro-rogelin-souza-749355266/
 
