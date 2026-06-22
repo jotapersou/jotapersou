@@ -24,13 +24,11 @@ UniCesumar
 
 ## Tecnologias
 
-* JavaScript
-* HTML5
-* CSS3
-* Git
-* GitHub
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
----
 
 ## Projects
 
@@ -39,21 +37,11 @@ UniCesumar
 Dashboard de investimento utilizando HTML, CSS e JavaScript.
 
 Repository:
-https://github.com/SEUUSUARIO/invest-dashboard
+https://github.com/jotapersou/invest-dashboard
 
 Live Demo:
-https://SEUUSUARIO.github.io/invest-dashboard/
+https://jotapersou.github.io/invest-dashboard/
 
-
-## Objetivos Profissionais
-
-* Consolidar conhecimentos em desenvolvimento de software
-* Construir um portfólio consistente de projetos
-* Ingressar profissionalmente na área de tecnologia
-* Desenvolver soluções que contribuam para a melhoria de processos e experiências dos usuários
-* Evoluir continuamente tanto em competências técnicas quanto interpessoais
-
----
 
 ## Contato
 
